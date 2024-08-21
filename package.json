@@ -1,0 +1,14 @@
+{
+  "name": "project-node.js-react",
+  "version": "1.0.0",
+  "description": "\"This is a react application\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Laide\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
